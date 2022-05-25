@@ -6,11 +6,11 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 # ----------------------------LOGIN INFO----------------------------------------#
-EMAIL = "divya9chandrapandi@gmail.com"
-PASS_KEY = "Ganesh55*"
+EMAIL = YOUR EMAIL
+PASS_KEY = PASSWORD
 
 # ----------------------------URL----------------------------------------#
-JOB_URL = "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=python%20intern"
+JOB_URL = LINKEDIN JOB URL WITH FILTER <JOB POSITION> AND <EASY APPLY>
 LOGIN_URL = "https://www.linkedin.com/checkpoint/lg/sign-in-another-account"
 
 # ----------------------------DRIVER SETUP----------------------------------------#
